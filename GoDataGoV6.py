@@ -25,7 +25,7 @@ years= [2018,2017]
 
 ly= len(years)
 #years count
-ui= input()
+ui= input("To show all statistics type all.\n\nTo show specific statistics, type the word you want to show statistics of.\n\nSeperate words with space if there are more than one word\n\nex:python java etc.\n:")
 #user input
 uic= len(ui)
 #user input count
